@@ -16,7 +16,7 @@ This repository use [Poetry][poetry] as dependency manager.
 ## Quickstart
 * Clone repo.
 * Install the requirements into a virtualenv with Poetry. (`poetry install`)
-* Start with the first [tutorial](tutorials/main_tutorial.md)
+* Start with the [tutorial](tutorials/main_tutorial.md)
 
 ## Authors
 
