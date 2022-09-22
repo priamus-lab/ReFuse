@@ -82,7 +82,7 @@ First of all test you environment: execute the test flow in test-flow-py running
 
 ## Build and Push Docker Image
 1. Build image using Dockerfile in "docker" folder
-2. Push image on AWS ECR (or DockerHub)
+2. Push image on AWS ECR (or DockerHub). For AWS ECR you can follow instruction provided by AWS ECR inside the AWS Console GUI.
 
 ## Deploy Prefect Kubernetes Agent
 TODO
