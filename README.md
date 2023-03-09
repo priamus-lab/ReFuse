@@ -25,7 +25,15 @@ This repository use [Poetry][poetry] as dependency manager.
 ## Citations ##
 If you find this code useful in your research, please consider citing:
 ```
-@article{TODO
+@article{giacco2022refuse,
+  title={ReFuse: Generating Imperviousness Maps from Multi-Spectral Sentinel-2 Satellite Imagery},
+  author={Giacco, Giovanni and Marrone, Stefano and Langella, Giuliano and Sansone, Carlo},
+  journal={Future Internet},
+  volume={14},
+  number={10},
+  pages={278},
+  year={2022},
+  publisher={MDPI}
 }
 ```
 
